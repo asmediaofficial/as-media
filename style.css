@@ -98,7 +98,7 @@ button a:hover{
 .hero_section{
     width: 100%;
     height: 800px;
-    background-image: url(/images/amazo-company-1.jpg);
+    background-image: url(https://raw.githubusercontent.com/asmediaofficial/as-media/refs/heads/main/images/amazo-company-1.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     position: relative;
